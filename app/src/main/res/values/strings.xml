@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestaurantFinder</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hospital">hospital</string>
+    <string name="bank">bank</string>
+    <string name="school">school</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+</resources>
